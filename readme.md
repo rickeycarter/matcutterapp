@@ -1,0 +1,1 @@
+This is a proof of concept app to guide the cutting layouts in matboard. The purpose of the app is to guide the mat layout for framing photographs. Future releases may include a proper app for native operating systems. 
